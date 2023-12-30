@@ -55,7 +55,10 @@ Cuenta de dos partes, la primera basada en crear el modelo de IA y por otro lado
 
 - **Correo Electrónico:** [javierplazasisques@gmail.com](javierplazasisques@gmail.com)
 - **Sitio Web o Blog:** [www.jsisques.com](https://jsisques.com/)
-- **Redes Sociales:** [JSisques](https://github.com/JSisques)
+
+### 🌍 Redes Sociales
+
+- **GitHub:** [JSisques](https://github.com/JSisques)
 
 ## 🤗 Agradecimientos
 
