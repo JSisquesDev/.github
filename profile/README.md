@@ -28,7 +28,7 @@ El objetivo de este proyecto es la creación de un dashboard centralizado que un
 
 ### 📈 Stock Predictor
 
-El proyecto principal de esta organización es la creación de una Inteligencia Artificial (IA) que utilice técnicas de aprendizaje automático y análisis de datos para predecir los valores futuros del mercado de acciones.
+Este proyecto consiste en la creación de una Inteligencia Artificial (IA) que utilice técnicas de aprendizaje automático y análisis de datos para predecir los valores futuros del mercado de acciones.
 
 Cuenta de dos partes, la primera basada en crear el modelo de IA y por otro lado la parte del backend para realizar las peticiones de las predicciones
 
