@@ -56,7 +56,7 @@ Cuenta de dos partes, la primera basada en crear el modelo de IA y por otro lado
 - **Correo Electrónico:** [javierplazasisques@gmail.com](javierplazasisques@gmail.com)
 - **Sitio Web:** [www.jsisques.com](https://jsisques.com/)
 
-### 🌍 Redes Sociales
+## 🌍 Redes Sociales
 
 - **GitHub:** [JSisques](https://github.com/JSisques)
 - **LinkedIn:** [Javier Plaza Sisqués](https://www.linkedin.com/in/javier-plaza-sisqu%C3%A9s-b79367172/)
