@@ -53,10 +53,14 @@ Cuenta de dos partes, la primera basada en crear el modelo de IA y por otro lado
 
 ## 📱 Contacto
 
+Si tienes preguntas, sugerencias o simplemente quieres ponerte en contacto conmigo, puedes hacerlo a través de:
+
 - **Correo Electrónico:** [javierplazasisques@gmail.com](javierplazasisques@gmail.com)
 - **Sitio Web:** [www.jsisques.com](https://jsisques.com/)
 
 ## 🌍 Redes Sociales
+
+Si te interesa saber más de mi aquí te dejo mis redes sociales:
 
 - **GitHub:** [JSisques](https://github.com/JSisques)
 - **LinkedIn:** [Javier Plaza Sisqués](https://www.linkedin.com/in/javier-plaza-sisqu%C3%A9s-b79367172/)
