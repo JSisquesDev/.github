@@ -70,4 +70,4 @@ Quiero expresar mi gratitud a todas las personas que han apoyado mis proyectos y
 
 ## 📋 Licencia
 
-Todo el contenido y los proyectos de esta organización personal se rigen bajo `GNU General Public License v3`. Consulta el archivo [LICENSE.md](https://github.com/JSisquesDev/.github/blob/main/LICENSE) para obtener más información.
+Todo el contenido y los proyectos de esta organización personal se rigen bajo `GNU General Public License v3.0`. Consulta el archivo [LICENSE.md](https://github.com/JSisquesDev/.github/blob/main/LICENSE) para obtener más información.
